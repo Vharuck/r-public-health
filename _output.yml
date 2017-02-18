@@ -1,0 +1,5 @@
+bookdown::gitbook:
+    dev: svglite::svglite
+    lib_dir: book_assets
+bookdown::pdf_book:
+    keep_text: true

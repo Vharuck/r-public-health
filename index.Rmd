@@ -1,0 +1,17 @@
+---
+title: 'R for Public Health Agencies'
+author: 'Nathan Werth'
+date: '`r Sys.Date()`'
+site: 'bookdown::bookdown_site'
+github-repo: Vharuck/r-public-health
+description: |
+    A guide for population-level public health agencies to adopting R, good
+    programming practices, and the lofty ideals of open source and open data.
+---
+
+# Preface {-}
+
+This handbook of recommendations comes from personal experience. In my position
+as a statistical analyst for the Pennsylvania Cancer Registry, I have practiced
+the art of *hard-working laziness*. A good summary of this way of life is
+long-term plans for staying on easy street.
